@@ -1,0 +1,13 @@
+{
+    "name": "tilelive-oscim",
+    "version": "0.0.1",
+    "main": "./lib/oscim_backend.js",
+    "dependencies": {
+        "async": "~0.1.22",
+        "generic-pool": "~2.0.3",
+        "eio": "~0.0.2",
+        "mapnik": "~0.7.22",
+        "node-vector-server": "https://github.com/artemp/vector-tile-server/archive/d27312ca5b24b3f3a8f983f32dd79b9e6012aaec.tar.gz",
+        "sphericalmercator": "~1.0.2"
+    }
+}
